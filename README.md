@@ -1,4 +1,4 @@
-# Attention-Enhanced CNN for Monkeypox and Related Skin Lesion Classification
+# Attention-Enhanced CNN for Accurate Monkeypox Classification
 
 This repository contains the implementation of an **Attention-Enhanced Convolutional Neural Network (CNN)** for the classification of Monkeypox and other skin lesions, based on the **Mpox Skin Lesion Dataset (MSLD v2.0)**. The experiment integrates advanced augmentation, aggressive oversampling, focal loss, and attention mechanisms to achieve robust classification across **six skin conditions**.
 
